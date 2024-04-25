@@ -1,0 +1,92 @@
+
+
+.section-1{
+    height: 400px;
+    width: 100% !important;
+}
+.sec{
+    background-image: url("./image/Rectangle\ 14\ \(5\).png");
+    width: 90% !important;
+}
+.sec1{
+    margin-top: 300px !important;
+    width: 90% !important;
+    /* background-image: url("./image/Rectangle\ 14\ \(5\).png"); */
+
+}
+.sec2{
+    /* margin-top: 300px !important; */
+    width: 90% !important;
+    background-image: url("./image/Rectangle\ 14\ \(5\).png");
+
+}
+.navbar{
+     
+    border-radius: 50px;
+}
+ 
+/* .other{
+    margin-left: 400px !important;
+}
+.con{
+    margin-left: 100px !important;
+} */
+.logo{
+    margin-right: 280px !important;
+}
+.sec2{
+    margin-top: 170px !important;
+    text-align: center !important;
+    margin-bottom: 30px !important;
+}
+.sec3{
+    background-image: url("./image/Rectangle\ 14\ \(5\).png");
+margin-top: 700px !important;
+width: 100% !important;
+margin: auto;
+
+}
+.section-2{
+    margin-left: 50px !important;
+}
+.head{
+    text-align: center;
+}
+ .head-5{
+    font-size: 2rem;
+ }
+.para-1{
+    font-size: 1rem;
+}
+.customer-box {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    text-align: center; /* Center text */
+    margin-bottom: 20px; /* Add some space between boxes */
+  }
+  
+  .customer-box span {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .customer-box h1 {
+    margin-bottom: 12px; /* Add space below the h1 */
+    margin-top: 20px !important;
+  }
+  .buttt{
+    border-radius: 20px;
+  }
+  .card-img-top{
+    background-image: url("./image/Rectangle\ 14\ \(5\).png");
+  }
+  .last{
+ 
+    margin-top: 100px !important;
+    /* margin-left: 20px !important; */
+
+  }
+  .cen{
+    align-items: center;
+  }
